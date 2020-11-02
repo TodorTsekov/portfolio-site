@@ -1,19 +1,19 @@
 <!DOCTYPE HTML>
 <html>
 
-<?php include('php/header.php'); ?>
+<?php include('../php/header.php'); ?>
 
 <body>
 
 	<div class="fh5co-loader"></div>
 
 	<div id="page">
-		<?php include('php/navigation.php'); ?>
+		<?php include('../php/navigation.php'); ?>
 		<div class="container">
 			<div id="fh5co-intro">
 				<div class="row animate-box">
 					<div class="col-md-8 col-md-offset-2 col-md-pull-2">
-						<h2>Architecture Building In Dublin, Ireland</h2>
+						<h2>About Me</h2>
 					</div>
 				</div>
 			</div>
@@ -34,7 +34,7 @@
 
 					<div class="col-md-7 col-md-pull-4 image-content">
 						<div class="image-item  animate-box">
-							<img src="images/portfolio-5.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
+							<img src="../images/portfolio-5.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 						</div>
 						<div class="image-item  animate-box">
 							<img src="images/portfolio-2.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
@@ -54,9 +54,9 @@
 			</div>
 		</div><!-- END container-wrap -->
 
-		<?php include('php/footer.php'); ?>
+		<?php include('../php/footer.php'); ?>
 	</div>
-	<?php include('php/scripts.php'); ?>
+	<?php include('../php/scripts.php'); ?>
 </body>
 
 </html>

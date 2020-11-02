@@ -1,13 +1,10 @@
 
 TITLE: 
-Architect - 100% Fully Responsive Free HTML5 Bootstrap Template
+Todor's protfolio website - 100% Fully Responsive 
+This webiste will give you an overview of my own finished projects to this date.
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+DESIGNED & DEVELOPED by Todor Tsekov
 
 
 CREDITS:
@@ -45,6 +42,5 @@ http://flexslider.woothemes.com/
 Sticky Kit
 http://leafo.net/sticky-kit/
 
-Demo Images:
-http://unsplash.com
-
+FreeHTML5.co
+http://freehtml5.co/

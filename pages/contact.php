@@ -1,14 +1,14 @@
 <!DOCTYPE HTML>
 <html>
 
-<?php include('php/header.php'); ?>
+<?php include('../php/header.php'); ?>
 
 <body>
 
 	<div class="fh5co-loader"></div>
 
 	<div id="page">
-		<?php include('php/navigation.php'); ?>
+		<?php include('../php/navigation.php'); ?>
 		<div class="container">
 			<div id="fh5co-intro">
 				<div class="row animate-box">
@@ -58,10 +58,10 @@
 			</div>
 		</div><!-- END container -->
 
-		<?php include('php/footer.php'); ?>
+		<?php include('../php/footer.php'); ?>
 	</div>
 
-	<?php include('php/scripts.php'); ?>
+	<?php include('../php/scripts.php'); ?>
 </body>
 
 </html>

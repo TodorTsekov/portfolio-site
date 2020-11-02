@@ -79,7 +79,7 @@
 					<div class="col-md-6 padding-right">
 						<div class="row">
 							<div class="col-md-12 animate-box">
-								<a href="single.html" class="portfolio-grid">
+								<a href="./pages/single.php" class="portfolio-grid">
 									<img src="images/portfolio-1.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 									<div class="desc">
 										<h3>Dublin Arena Architect Project</h3>
@@ -88,7 +88,7 @@
 								</a>
 							</div>
 							<div class="col-md-12 animate-box">
-								<a href="single.html" class="portfolio-grid">
+								<a href="./pages/single.php" class="portfolio-grid">
 									<img src="images/portfolio-4.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 									<div class="desc">
 										<h3>Dublin Arena Architect Project</h3>
@@ -97,7 +97,7 @@
 								</a>
 							</div>
 							<div class="col-md-12 animate-box">
-								<a href="single.html" class="portfolio-grid">
+								<a href="./pages/single.php" class="portfolio-grid">
 									<img src="images/portfolio-5.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 									<div class="desc">
 										<h3>Dublin Arena Architect Project</h3>
@@ -112,7 +112,7 @@
 					<div class="col-md-6 padding-left">
 						<div class="row">
 							<div class="col-md-12 animate-box">
-								<a href="single.html" class="portfolio-grid">
+								<a href="./pages/single.php" class="portfolio-grid">
 									<img src="images/portfolio-2.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 									<div class="desc">
 										<h3>Dublin Arena Architect Project</h3>
@@ -121,7 +121,7 @@
 								</a>
 							</div>
 							<div class="col-md-12 animate-box">
-								<a href="single.html" class="portfolio-grid">
+								<a href="./pages/single.php" class="portfolio-grid">
 									<img src="images/portfolio-3.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 									<div class="desc">
 										<h3>Dublin Arena Architect Project</h3>
@@ -130,7 +130,7 @@
 								</a>
 							</div>
 							<div class="col-md-12 animate-box">
-								<a href="single.html" class="portfolio-grid">
+								<a href="./pages/single.php" class="portfolio-grid">
 									<img src="images/portfolio-6.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 									<div class="desc">
 										<h3>Dublin Arena Architect Project</h3>
@@ -140,7 +140,7 @@
 							</div>
 
 							<div class="col-md-12 animate-box">
-								<a href="single.html" class="portfolio-grid">
+								<a href="./pages/single.php" class="portfolio-grid">
 									<img src="images/portfolio-7.jpg" class="img-responsive" alt="Free HTML5 Bootstrap Template by FreeHTML5.co">
 									<div class="desc">
 										<h3>Dublin Arena Architect Project</h3>

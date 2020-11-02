@@ -7,9 +7,10 @@
                 </div>
                 <div class="col-sm-10 text-right menu-1">
                     <ul>
-                        <li class="active"><a href="index.php">Portfolio</a></li>
-                        <li><a href="single.php">Resume</a></li>
-                        <li><a href="single.php">About Me</a></li>
+                        <!-- set active for the different pages -->
+                        <li class="active"><a href="../index.php">Portfolio</a></li>
+                        <li><a href="../pages/resume.php">Resume</a></li>
+                        <li><a href="../pages/about.php">About Me</a></li>
                         <!-- <li class="has-dropdown"><a href="single.html">About Me</a>
 								<ul class="dropdown">
 									<li><a href="#">Infrastructure</a></li>
@@ -18,7 +19,7 @@
 									<li><a href="#">Megabuilders</a></li>
 								</ul>
 							</li> -->
-                        <li><a href="contact.php">Contact</a></li>
+                        <li><a href="../pages/contact.php">Contact</a></li>
                     </ul>
                 </div>
             </div>
