@@ -1,7 +1,10 @@
 <!DOCTYPE HTML>
 <html>
 
-<?php include('../php/header.php'); ?>
+<?php
+$currentPage = 'contact';
+include('../php/header.php');
+?>
 
 <body>
 
@@ -22,10 +25,8 @@
 					<div class="col-md-4 animate-box">
 						<h3>Contact Information</h3>
 						<ul class="contact-info">
-							<li><i class="icon-location4"></i>198 West 21th Street, Suite 721 New York NY 10016</li>
-							<li><i class="icon-phone3"></i>+ 1235 2355 98</li>
-							<li><i class="icon-location3"></i><a href="#">info@yoursite.com</a></li>
-							<li><i class="icon-globe2"></i><a href="#">www.yoursite.com</a></li>
+							<li><i class="icon-location4"></i>Eindhoven, Netherlands</li>
+							<li><i class="icon-linkedin"></i><a href="https://www.linkedin.com/in/t-v-tsekov/" target="_blank">LinkedIn</a></li>
 						</ul>
 					</div>
 					<div class="col-md-8 animate-box">

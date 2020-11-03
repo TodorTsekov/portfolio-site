@@ -1,6 +1,9 @@
 <!DOCTYPE HTML>
 <html>
-<?php include('php/header.php'); ?>
+<?php
+$currentPage = 'index';
+include('php/header.php');
+?>
 
 <body>
 

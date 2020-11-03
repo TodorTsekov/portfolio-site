@@ -1,7 +1,10 @@
 <!DOCTYPE HTML>
 <html>
 
-<?php include('../php/header.php'); ?>
+<?php
+$currentPage = '';
+include('../php/header.php');
+?>
 
 <body>
 
